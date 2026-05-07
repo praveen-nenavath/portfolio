@@ -45,7 +45,7 @@ portfolio/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/praveen-nenavath/portfolio.git
 cd portfolio
 ```
 
@@ -97,20 +97,20 @@ Then open `http://localhost:8000` in your browser.
 
 ```html
 <!-- GitHub -->
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/praveen-nenavath">
 
 <!-- LinkedIn -->
-<a href="https://linkedin.com/in/YOUR_PROFILE">
+<a href="https://linkedin.com/in/nenavath-praveen">
 ```
 
 ### Update project links
 
 ```html
 <!-- AgriTech -->
-<a class="project-card" href="https://your-agritech-url.com">
+<a class="project-card" href="https://agritechculture.vercel.app">
 
 <!-- Banjara Shaadi -->
-<a class="project-card" href="https://banjarashaadi.com">
+<a class="project-card" href="https://banjarashaadi.vercel.app">
 ```
 
 ### Change accent color
@@ -131,7 +131,7 @@ Then open `http://localhost:8000` in your browser.
 1. Push the repo to GitHub
 2. Go to Settings → Pages
 3. Set source to main branch, / (root)
-4. Live at: https://your-username.github.io/portfolio
+4. Live at: https://praveen-nenavath.github.io/portfolio
 ```
 
 ### Netlify
@@ -175,6 +175,7 @@ Google Fonts   Syne · DM Mono · Instrument Serif
 
 This project is open source and available under the MIT License.
 
+
 ---
 
 ## Author
@@ -184,6 +185,6 @@ Name     : Nenavath Praveen
 Email    : praveennenavath052@gmail.com
 Phone    : +91-9618963009
 College  : RGUKT Basar — B.Tech CSE (2022–2026)
-GitHub   : github.com/your-username
-LinkedIn : linkedin.com/in/your-profile
+GitHub   : github.com/praveen-nenavath
+LinkedIn : linkedin.com/in/nenavath-praveen-405084242?utm_source=share_via&utm_content=profile&utm_medium=member_android
 ```
